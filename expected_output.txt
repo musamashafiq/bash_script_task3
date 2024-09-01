@@ -1,0 +1,4 @@
+HR: 71200
+Marketing: 64500
+Finance: 72200
+IT: 77667
